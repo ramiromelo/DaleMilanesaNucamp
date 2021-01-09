@@ -1,0 +1,24 @@
+{
+  "name": "dale-final",
+  "version": "1.0.0",
+  "description": "Nucamp Bootstrap Project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "author": "Ramiro Melo",
+  "license": "ISC",
+  "devDependencies": {
+    "jquery": "^3.5.1",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@ecodev/natural-gallery-js": "^7.0.0",
+    "aos": "^3.0.0-beta.6",
+    "bootstrap": "^4.5.3",
+    "boxicons": "^2.0.7",
+    "popper": "^1.0.1"
+  }
+}
